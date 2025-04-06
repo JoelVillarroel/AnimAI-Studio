@@ -1,0 +1,59 @@
+# ▶️ Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# 🧪 Entornos virtuales
+env/
+venv/
+ENV/
+.venv/
+.idea/
+.vscode/
+
+# 🧠 Modelos y pesos (opcional)
+*.pt
+*.pth
+
+# 🎥 Archivos temporales de MoviePy
+*.mp4
+*.mkv
+*.avi
+*.mov
+*.m4a
+*.wav
+*.webm
+temp-*.*
+*.log
+
+# 🖼️ Miniaturas y vistas previas
+preview_thumbnail*.png
+preview_history.json
+
+# 📤 Salida final de videos
+/output/
+
+# 📜 Metadata generada
+output/video_metadata.json
+output/subtitles.json
+
+# 🔊 Audios de prueba
+scripts/**/audio.wav
+
+# 📁 Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 📝 Backups del editor
+*~
+*.bak
+
+# ✅ Archivo de validación (si se genera como log)
+validation.log

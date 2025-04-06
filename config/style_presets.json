@@ -1,0 +1,42 @@
+{
+  "drama": {
+    "font": "Arial-Bold",
+    "fontsize": 64,
+    "color": "#FFFFFF",
+    "stroke_color": "#000000",
+    "stroke_width": 3,
+    "text_position": "center",
+    "anim_modes": ["zoom_lento", "paneo_diagonal"],
+    "fade_duration": 0.5
+  },
+  "comedia": {
+    "font": "Comic-Sans-MS",
+    "fontsize": 60,
+    "color": "#FFFF00",
+    "stroke_color": "#FF0000",
+    "stroke_width": 2,
+    "text_position": "bottom",
+    "anim_modes": ["zoom_rapido", "rebotar"],
+    "fade_duration": 0.2
+  },
+  "filosófico": {
+    "font": "Georgia",
+    "fontsize": 54,
+    "color": "#ADD8E6",
+    "stroke_color": "#000000",
+    "stroke_width": 1,
+    "text_position": "top",
+    "anim_modes": ["zoom_etereo", "paneo_lento"],
+    "fade_duration": 0.4
+  },
+  "neutro": {
+    "font": "Arial",
+    "fontsize": 60,
+    "color": "#FFFFFF",
+    "stroke_color": "#000000",
+    "stroke_width": 2,
+    "text_position": "bottom",
+    "anim_modes": ["zoom_suave"],
+    "fade_duration": 0.3
+  }
+}

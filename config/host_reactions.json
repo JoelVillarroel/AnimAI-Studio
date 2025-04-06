@@ -1,0 +1,16 @@
+{
+    "zoom_and_fade": [
+      "gritar",
+      "asco",
+      "horrible",
+      "nooo",
+      "vomito",
+      "repulsivo"   
+    ],
+    "fade_only": ["triste", "soledad", "dolor"],
+    "zoom_in": ["boom", "impacto", "shock"],
+    "shake": ["temblor", "temblando"],
+    "blur": ["confuso", "despierto", "nublado"]
+  }
+  
+  

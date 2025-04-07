@@ -1,0 +1,8 @@
+{
+    "tone": "drama",
+    "subtitle_engine": "whisper",
+    "music_volume": 0.3,
+    "include_intro": true,
+    "include_outro": true,
+    "random_music": true
+  }

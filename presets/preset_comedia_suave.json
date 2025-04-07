@@ -1,0 +1,8 @@
+{
+    "tone": "comedia",
+    "subtitle_engine": "whisper",
+    "music_volume": 0.25,
+    "include_intro": true,
+    "include_outro": false,
+    "random_music": true
+  }
